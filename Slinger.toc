@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: Slinger
+## Notes: Portal slinging made easy.
+## Author: Frankup
+## Version: 1.0
+
+Slinger.lua
